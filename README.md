@@ -1,2 +1,27 @@
-# itrade.icu
-https://itrade.icu
+# 📈 内容宝库
+> 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。请访问[https://www.itrade.icu](https://www.itrade.icu)获取更多福利
+
+以下是当前已上线的量化交易策略，更多策略和福利即将上线，抓紧机会抢先使用，早买早赚钱，价格不久将上调！
+
+---
+💎 **全站VIP**：`299 USDT`（包含`全站所有内容`免费查看）  
+⚡ 早鸟价格，限时抢购！随着策略不断增加，会员价格将逐步上涨，早买早享收益，早买早显瘦 😉
+
+---
+## 策略合集
+- 🗡 **骨刃策略**（价值：`99.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/strategys/bone-edge-v1.html) | 平均月收益率 `762.05%`  
+- 🐋 **鲸鱼策略**（价值：`59.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/strategys/whale-v1.html) | 平均年收益率 `473.95%`  
+- 👻 **幽灵策略**（价值：`129.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/strategys/specter-v1.html) | 平均月收益率 `13,407.95%`  
+- 👸 **雅典娜策略**（价值：`109.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/strategys/athena-v1.html) | 平均月收益率 `12248.60% `  
+- 🔜 更多策略即将上线，敬请关注！
+
+
+## 福利合集
+* 📊 **CEX + DEX 全市场行情监控**（价值：`39.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/welfare/market.html) | 实时指标推送，轻松掌握市场机会
+* 🏅 **批量回测 Freqtrade 策略源码**（价值：`9.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/welfare/testing.html) | 支持月度、季度、半年、年度回测，自定义 config.json 与策略
+* ⚡ **闪电贷 视频教程+源码，手把手教你赚钱**（价值：`99.99 USDT`） → [查看详情](https://www.itrade.icu/zh/codes/welfare/flashs.html) | Uniswap、Aave、dYdX、DODO 四大主流协议闪电贷实战
+* 🔜 更多量化工具与福利即将上线，敬请关注！
+
+
+
+
