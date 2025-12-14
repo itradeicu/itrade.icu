@@ -1,6 +1,6 @@
 # 【量化神器】一键批量回测 Freqtrade 策略，让你轻松找到最优策略
 
-> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+> 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
 
 访问获取更多福利
 
@@ -45,7 +45,7 @@
 
 ## 批量回测 Freqtrade 策略源码
 
-> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+> 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
 
 访问获取更多福利
 
