@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # Freqtrade 本地调试配置（VS Code）
 
 为了方便在 VS Code 中调试 Freqtrade 策略，可以使用内置的 Python 调试器（`debugpy`）启动回测或实盘模式。以下是一个典型的 `launch.json` 配置示例。

@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 ## 📘 一行代码提升10%收益？教你用 custom_roi 精准止盈
 在 Freqtrade 策略中，`custom_roi` 是一个非常实用的函数，允许你根据当前持仓状态、时间和收益率动态调整止盈目标。
 相比静态的 minimal_roi，`custom_roi` 更灵活，可以帮助你提升收益率和风险控制能力。

@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 # 📘 第 3 篇：《如何下载币圈历史 K 线数据？Freqtrade download-data 教程》
 

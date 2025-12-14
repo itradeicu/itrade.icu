@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 # 📘 第 7 篇：如何搭建 Freqtrade Web UI？安装与使用指南
 

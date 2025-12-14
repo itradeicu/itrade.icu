@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 # 📘 第7篇：白名单与黑名单机制：只交易你想要的币
 

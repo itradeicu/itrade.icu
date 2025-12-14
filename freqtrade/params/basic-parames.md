@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # Freqtrade策略不跑、跑错、跑飞？那可能是这几个参数没配好
 
 在使用 Freqtrade 编写和运行策略之前，有几个最基础的参数你必须先搞懂。这些参数控制了策略的数据周期、预加载行为、并发交易数、安全校验等，直接影响策略的执行效果和稳定性。

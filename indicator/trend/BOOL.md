@@ -1,4 +1,7 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
 
 # 📘 Boll 指标全解析：公式、买卖点、背离陷阱与策略实战
 

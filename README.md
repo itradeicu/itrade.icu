@@ -1,6 +1,8 @@
 # 📈 内容宝库
 
-> 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。请获取更多福利
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
 
 ***
 

@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # config.json 基础入门与初始化
 
 在使用 Freqtrade 进行策略回测、数据下载或实盘交易前，最核心的准备就是创建并配置好 `config.json` 文件。它是整个交易框架的“总指挥”，决定了你连接哪个交易所、如何交易、策略如何运行、使用多少交易资金、如何分配余额等。

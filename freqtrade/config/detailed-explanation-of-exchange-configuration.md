@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # 🔌 连接交易所就靠它！Freqtrade 交易所配置详解
 
 Freqtrade 通过 `config.json` 中的 `exchange` 和 `ccxt_config` 配置项与交易所建立连接。这一步是策略执行的前提，涉及 API 密钥、WebSocket、频率控制等多个关键参数。

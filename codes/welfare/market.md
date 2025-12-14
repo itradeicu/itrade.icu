@@ -1,6 +1,10 @@
 # 【独家揭秘】CEX + DEX 全市场行情监控＋指标推送，轻松掌握赚钱机会
 
-本文由 [https://itrade.icu](https://www.itrade.icu) 量化交易实验室出品。
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 ## 📊 简介
 
@@ -46,4 +50,8 @@
 
 ## 全市场行情监控＋指标推送源码
 
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+

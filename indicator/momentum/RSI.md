@@ -1,4 +1,7 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
 
 # 📘 RSI 相对强弱指标 解析：动量王者的应用指南
 

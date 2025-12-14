@@ -1,5 +1,9 @@
 
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 
 # 🖥️ 统一管理多个 Freqtrade 策略的 WebUI 页面实战指南

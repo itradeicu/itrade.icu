@@ -4,7 +4,9 @@
 
 ## 📊 策略简介
 
-本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。
+> 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+
 
 我们使用**真实行情数据**结合**量化回测引擎**，对一款幽灵策略进行了连续 **5年7个月的回测**和**实盘测试**收益颇丰。
 
@@ -121,7 +123,11 @@
 
 ## 🆚 幽灵策略源码文件
 
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 
 ## 📢 最后总结
 

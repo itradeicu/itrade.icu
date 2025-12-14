@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # 📘 聪明人只止必要的损：一文搞懂 Freqtrade 动态止损
 
 在自动交易系统中，止损策略是控制亏损、保护本金的核心机制之一。  

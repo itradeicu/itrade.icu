@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "53a3a345c3e60bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b594ca5b932d76e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34861da9cac0e88b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ccd4ff6f6345690",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d5fc4e4530f41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24962679995266b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "530526e42b3e1eb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b0c6404cb3bd4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "727b7fb9d0fc2fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f21c71573ad01af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f1784fdad91c8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "SUMMARY 的反向链接列表"
+            }
+          },
+          {
+            "id": "4342d56d1920c997",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SUMMARY 的出链列表"
+            }
+          },
+          {
+            "id": "477803d474d377fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7c86628be515a9d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a06ddc58c3e4584a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SUMMARY 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "34861da9cac0e88b",
+  "lastOpenFiles": [
+    "README.md",
+    "codes/strategys/bone-edge-v1_.md",
+    "codes/strategys/bone-edge-v1.md",
+    "codes/strategys/specter-v1.md",
+    "codes/strategys/whale-v1.md",
+    "codes/strategys/athena-v1-monthly-20200101-20250801.md",
+    "codes/strategys/athena-v1.md",
+    "codes/welfare/flashs.md",
+    "codes/welfare/market.md",
+    "codes/welfare/testing.md",
+    "codes/welfare/README.md",
+    "codes/README.md",
+    "freqtrade/command/web-ui.md",
+    "freqtrade/command/tradeUI-and-webserverUI.md",
+    "freqtrade/command/strategy-parameter-tuning.md",
+    "freqtrade/command/real-or-simulated-trading.md",
+    "freqtrade/command/download-data.md",
+    "freqtrade/command/data-backtesting.md",
+    "freqtrade/command/command-collection.md",
+    "freqtrade/command/chart-visualization.md",
+    "freqtrade/config/whitelist-and-blacklist.md",
+    "freqtrade/config/trading-model-and-leverage-configuration.md",
+    "freqtrade/config/trading-currency-and-capital-control-configuration.md",
+    "freqtrade/config/detailed-explanation-of-exchange-configuration.md",
+    "freqtrade/config/control-buying-and-selling-prices.md",
+    "freqtrade/config/basic-introduction-and-initialization.md",
+    "indicator/volatility/image.png",
+    "indicator/zi-jin-liu-liang-zhi-biao",
+    "indicator/jia-ge-mo-shi-shi-bie-zhi-biao",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.base"
+  ]
+}

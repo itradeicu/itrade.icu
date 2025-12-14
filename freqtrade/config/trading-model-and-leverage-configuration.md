@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # ⚔️ 现货 vs 合约？交易模式与杠杆配置全解析
 
 在使用 Freqtrade 时，交易模式的选择将直接影响你的策略逻辑、风控方式和下单行为。你可以选择**现货交易（spot）**，也可以使用支持杠杆的**合约交易（futures）**。不同模式下，相关配置项也有所不同，如 `margin_mode`、`leverage`、`liquidation_buffer` 等。

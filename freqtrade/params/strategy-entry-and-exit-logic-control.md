@@ -1,4 +1,8 @@
-获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
+> > 本文为 [https://www.itrade.icu](https://www.itrade.icu) 量化交易实验室出品。访问获取更多福利
+
+访问获取更多福利
+
+
 # 涨了就卖？亏了就砍？Freqtrade 进出场逻辑全解锁！
 
 在 `Freqtrade` 策略中，进出场规则的配置是交易表现的关键。合理设置止盈、止损及卖出信号，可以有效提升策略的收益和风险控制能力。本篇重点讲解控制开仓、平仓、止盈的核心参数。
