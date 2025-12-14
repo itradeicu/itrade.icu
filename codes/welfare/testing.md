@@ -2,7 +2,6 @@
 
 本文由 [https://itrade.icu](https://www.itrade.icu) 量化交易实验室出品。
 
-
 ## 📊 功能亮点
 
 在数字货币量化交易中，**策略优劣决定收益高低**。单策略回测往往耗时且效率低，而我开发的 **批量回测 Freqtrade 源码**，让你可以轻松进行多周期、多策略回测分析，快速找到最适合市场环境的策略。
@@ -36,11 +35,10 @@
 3. **可视化直观**：报告清晰，指标全面
 4. **量化利器**：让你快速找到最适合市场的交易策略
 
----
-## 图示
-![](/codes/welfare/testing_1.png)
+***
 
-![](/codes/welfare/testing_2.png)
+## 图示
 
 ## 批量回测 Freqtrade 策略源码
+
 获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)

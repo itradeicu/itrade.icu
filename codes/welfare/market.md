@@ -2,7 +2,6 @@
 
 本文由 [https://itrade.icu](https://www.itrade.icu) 量化交易实验室出品。
 
-
 ## 📊 简介
 
 在数字货币市场，每一秒的行情波动都可能意味着机会或风险。普通工具只能看价格，而**真正的赚钱机会**来自于**全市场监控 + 智能指标推送**。
@@ -41,13 +40,10 @@
 3. **秒级更新**：数据刷新迅速，信息精准可靠
 4. **智能分析**：不仅看价格，还能让指标告诉你买卖时机
 
----
+***
+
 ## 图示
-![](/codes/welfare/market_1.png)
-
-![](/codes/welfare/market_2.png)
-
-![](/codes/welfare/market_3.png)
 
 ## 全市场行情监控＋指标推送源码
+
 获取源码请访问[https://www.itrade.icu](https://www.itrade.icu)
