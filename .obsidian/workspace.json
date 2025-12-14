@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "codes/strategys/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "34861da9cac0e88b",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "README.md",
     "codes/strategys/bone-edge-v1_.md",
     "codes/strategys/bone-edge-v1.md",
@@ -210,7 +211,6 @@
     "freqtrade/config/trading-currency-and-capital-control-configuration.md",
     "freqtrade/config/detailed-explanation-of-exchange-configuration.md",
     "freqtrade/config/control-buying-and-selling-prices.md",
-    "freqtrade/config/basic-introduction-and-initialization.md",
     "indicator/volatility/image.png",
     "indicator/zi-jin-liu-liang-zhi-biao",
     "indicator/jia-ge-mo-shi-shi-bie-zhi-biao",
